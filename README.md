@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Darshan Bajgain</h1>
-<h3 align="center">👨‍💻 BSc.CSIT Final Year Student | Hello! I'm Darshan Bajgain, a BSc.CSIT student with a passion for front-end web development.
+<h3 align="center">👨‍💻 BSc.CSIT Final Year Student | Hello! I'm Darshan Bajgain, a BSc.CSIT student with a passion for front-end web development </h3>
 <br>
-**Frontend Development**: HTML, CSS, JavaScript
-- **Frameworks**: React (in progress)
-- **Programming Languages**: Java (in progress)
+<h3>
+  **Frontend Development**: HTML, CSS, JavaScript
+  **Frameworks**: React (in progress)
+  **Programming Languages**: Java (in progress)
+</h3>
+
 <br>
-I'm eager to apply these skills to create exciting projects.</h3>
+<h3>I'm eager to apply these skills to create exciting projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanbajgain&label=Profile%20views&color=0e75b6&style=flat" alt="darshanbajgain" /> </p>
 
