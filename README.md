@@ -3,7 +3,6 @@
 <h3>
  Frameworks: React, Java Spring Boot (in progress) 
 </h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshanbajgain&label=Profile%20views&color=0e75b6&style=flat" alt="darshanbajgain" /> </p>
 
 - 🌱 I’m currently learning **React, Java**
