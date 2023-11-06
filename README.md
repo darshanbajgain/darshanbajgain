@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **darshanbajgain90@gmail.com**
 
-- Website: https://darshanbajgain.github.io/
+- Website: **https://darshanbajgain.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
