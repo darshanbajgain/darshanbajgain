@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Darshan Bajgain<br>👨‍💻 BSc.CSIT final-year student with a passion for front-end web development <br>
+Hello 👋, I'm Darshan Bajgain<br>
+👨‍💻 BSc.CSIT final-year student passionate about front-end web development. Proficient in HTML, CSS, and SEO principles, venturing into React, and exploring the realms of Java. Excited to learn, grow, and code impactful solutions! <br>
 
 
 ## 🌐 Socials:
