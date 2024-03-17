@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello 👋, I'm Darshan Bajgain<br>
-BSc.CSIT final-year student, enthusiastic about frontend web development. Skilled in HTML, CSS, and SEO principles, currently venturing into React and delving into Java. Eager to learn, grow, and craft impactful solutions! Let's connect and innovate together!<br>
+I’ve got a knack for HTML, CSS, and a bit of JavaScript, and I’ve also used  React for a significant project. Currently, I’m exploring Java. I’m intrigued by various aspects of IT, from web design to software development and even SEO. Ready to learn, and contribute to a team while gaining hands-on experience.<br>
 
 
 ## 🌐 Socials:
