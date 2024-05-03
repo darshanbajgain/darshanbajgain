@@ -1,7 +1,9 @@
 # 💫 About Me:
 Hello 👋, I'm Darshan Bajgain<br>
-I’ve got a knack for HTML, CSS, and a bit of JavaScript, and I’ve also used  React for a significant project. Currently, I’m exploring Java. I’m intrigued by various aspects of IT, from web design to software development and even SEO. Ready to learn, and contribute to a team while gaining hands-on experience.<br>
-
+Final year B.Sc.CSIT student with hands-on experience in Java programming, HTML, CSS, and JavaScript, seeking an internship opportunity to apply and expand my skills in software engineering. I am proficient in HTML, CSS, JavaScript, and Java. I
+am currently learning and working on self-projects involving Spring, Spring Boot, Hibernate, and Spring JDBC to enhance my
+skills in software development. I enjoy staying updated on the latest tech trends, experimenting with new coding techniques,
+and troubleshooting tech issues. I’m excited to learn more and help out in a team while gaining practical experience.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshanbajgain) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thearshanbajgai) 
