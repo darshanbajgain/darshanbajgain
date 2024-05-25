@@ -1,8 +1,10 @@
 # 💫 About Me:
 Hello 👋, I'm Darshan Bajgain<br>
-I am learning Fullstack developement.<br>
+A BSc. CSIT undergraduate learning Fullstack developement.<br>
 Frontend: React Js<br>
-Backend: Java Spring Boot
+Backend: Java Spring Boot<br>
+Got some interests & good knowledge in SEO & Wordpress, Video Editing as well.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshanbajgain) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thearshanbajgai) 
