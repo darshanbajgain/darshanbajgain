@@ -3,7 +3,7 @@ Hello 👋, I'm Darshan Bajgain<br>
 A BSc. CSIT undergraduate learning Fullstack developement.<br>
 Frontend: React Js<br>
 Backend: Java Spring Boot<br>
-Got some interests & good knowledge in SEO & Wordpress, Video Editing as well.
+Got some interests & good knowledge in SEO & CMS, and Video Editing as well.
 
 
 ## 🌐 Socials:
