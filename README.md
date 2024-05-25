@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello 👋, I'm Darshan Bajgain<br>
-I am learning Fullstack developement. 
-Frontend: React Js
+I am learning Fullstack developement.<br>
+Frontend: React Js<br>
 Backend: Java Spring Boot
 
 ## 🌐 Socials:
