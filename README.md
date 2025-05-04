@@ -3,22 +3,18 @@ Hello 👋, I'm **Darshan Bajgain**
 A passionate **Frontend Web Engineer** from Jhapa,Nepal currently working at **Paragon Global LLC**.  
 I'm focused on building modern, scalable web applications using React and RESTful APIs.
 
-🌱 Currently exploring:
-- Real-time analytics dashboards
-- Map-based features (Leaflet.js, heatmaps)
-- Project performance optimization with Vite  
+
 📫 Reach me at: **darshanbajgai@gmail.com**
 
 ---
 
 ### 🚀 Tech Experience:
-- ⚛️ **Frontend**: React.js, Zustand, Tailwind CSS, Material UI  
+- ⚛️ **Frontend**: React.js, Next Js, Zustand, Tailwind CSS, Material UI  
 - 🔗 **API Integration**: Axios, REST APIs, WebSockets  
 - 🗺 **Maps & Visualization**: Leaflet.js, Recharts, Chart.js  
 - 🚀 **Build Tools**: Vite, Create React App (CRA)  
 - 🔒 **Authentication**: JWT, Axios interceptors  
 - 🧰 **Version Control**: Git & GitHub  
-- 📦 **Others**: Firebase, Builder.io, CMS, SEO, Video Editing  
 
 ---
 
@@ -31,8 +27,7 @@ I'm focused on building modern, scalable web applications using React and RESTfu
 ---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -40,7 +35,6 @@ I'm focused on building modern, scalable web applications using React and RESTfu
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
