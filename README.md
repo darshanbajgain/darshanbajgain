@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello 👋, I'm **Darshan Bajgain**  
-A passionate **Frontend Web Engineer** from Jhapa,Nepal currently working at **Paragon Global LLC**.  
+A passionate **Frontend Web Engineer** from Jhapa,Nepal.  
 I'm focused on building modern, scalable web applications using React and RESTful APIs.
 
 
