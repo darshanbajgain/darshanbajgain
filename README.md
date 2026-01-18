@@ -57,9 +57,11 @@ I specialize in **real-time features**, **state management**, and **data visuali
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=darshanbajgain&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanbajgain&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanbajgain&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanbajgain&layout=compact&theme=dark)
 
 ---
 
